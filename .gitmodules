@@ -1,3 +1,12 @@
 [submodule "M1COO_1Peage"]
 	path = M1COO_1Peage
 	url = https://github.com/jecisc/M1COO_1Peage.git
+[submodule "M1COO_2Entreprise"]
+	path = M1COO_2Entreprise
+	url = https://github.com/jecisc/M1COO_2Entreprise.git
+[submodule "M1COO_Projet"]
+	path = M1COO_Projet
+	url = https://github.com/Rousscot/M1COO_Projet.git
+[submodule "M1COO_3Hopital"]
+	path = M1COO_3Hopital
+	url = https://github.com/Rousscot/M1COO_3Hopital.git
