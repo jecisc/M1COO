@@ -10,3 +10,6 @@
 [submodule "M1COO_3Hopital"]
 	path = M1COO_3Hopital
 	url = https://github.com/Rousscot/M1COO_3Hopital.git
+[submodule "M1COO_4Annuaire"]
+	path = M1COO_4Annuaire
+	url = https://github.com/Rousscot/M1COO_4Annuaire.git
